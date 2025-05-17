@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Pallav Gupta - Resume
+description: Resume website for Pallav Gupta, an experienced software developer and architect.
+baseurl: "" # Leave empty for root
+url: "https://pallav-gupta.github.io"
